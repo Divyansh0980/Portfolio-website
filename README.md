@@ -135,7 +135,7 @@ This project is [MIT](LICENSE) licensed.
 **Divyansh**
 
 - GitHub: [@Divyansh0980](https://github.com/Divyansh0980)
-- LeetCode: [@Divyansh0980](https://leetcode.com/Divyansh0980)
+- LeetCode: [@Divyansh0980](https://leetcode.com/Divyansh_91)
 
 ## ⭐ Show your support
 
