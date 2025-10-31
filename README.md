@@ -28,8 +28,8 @@ Portfolio-website/
 ├── styles.css          # Stylesheet
 ├── script.js           # JavaScript animations
 ├── README.md           # Project documentation
-├── LICENSE            # MIT License
-└── .gitignore         # Git ignore file
+├── LICENSE             # MIT License
+└── .gitignore          # Git ignore file
 ```
 
 ## 🛠️ Technologies Used
